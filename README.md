@@ -34,7 +34,8 @@ The streamer app is intended to be simple:
 1. Launch Heroes III / HotA.
 2. Launch HoMM III Companion.
 3. Connect your Twitch account.
-4. Start streaming with the companion Twitch Extension enabled.
+4. Press "Start" button.
+5. Start streaming with the companion Twitch Extension enabled.
 
 ### Support
 
@@ -66,7 +67,8 @@ HoMM III Companion - це додаток для стрімера, створен
 1. Запустити Heroes III / HotA.
 2. Запустити HoMM III Companion.
 3. Підключити Twitch-акаунт.
-4. Почати стрім з увімкненим companion Twitch Extension.
+4. Натисність кнопку "Start".
+5. Почати стрім з увімкненим companion Twitch Extension.
 
 ### Підтримка
 
