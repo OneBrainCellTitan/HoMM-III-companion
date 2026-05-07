@@ -19,9 +19,8 @@ The project is designed for Heroes III PvP streams, where viewers want quick acc
 ### What It Does
 
 - Connects to a running Heroes III / HotA game on the streamer's PC.
-- Publishes the streamer's current game state to the companion relay server.
-- Powers an interactive Twitch overlay for viewers.
-- Shows hero portraits, primary stats, morale, luck, experience, secondary skills, artifacts, army stacks, spellbook, and detailed popups.
+- Publishes the streamer's current game state to the companion extension.
+- Shows hero portraits, primary stats, morale, luck, experience, secondary skills, artifacts, army stacks, spellbook, army and detailed info.
 - Keeps viewer interaction separate from OBS scene layout.
 
 ### Streamer App
@@ -37,22 +36,21 @@ The streamer app is intended to be simple:
 
 ### Support
 
-If you want to support development, you can contribute through the [Monobank support jar](https://send.monobank.ua/jar/AGKRYBbgPD).
+If you want to support development, you can contribute through the [Monobank](https://send.monobank.ua/jar/AGKRYBbgPD).
 
 ---
 
 ## Українською
 
-HoMM III Companion - це додаток для стрімера, створений для Heroes of Might and Magic III: Horn of the Abyss. Він читає живий стан гри з запущеного процесу та передає його у [Twitch Extension HoMM III Companion](https://dashboard.twitch.tv/extensions/yngq3ejk6b6z0838sjnxy5kz1k8eru-0.0.1), щоб глядачі могли переглядати поточного героя стрімера, армію, артефакти, навички, книгу заклять, очки руху, spell points та інші live-дані без зайвих шарів в OBS.
+HoMM III Companion - це додаток для стрімера, створений для Heroes of Might and Magic III: Horn of the Abyss. Він читає живий стан гри з запущеного процесу та передає його у [HoMM III Companion Twitch Extension](https://dashboard.twitch.tv/extensions/yngq3ejk6b6z0838sjnxy5kz1k8eru-0.0.1), щоб глядачі могли переглядати поточного героя стрімера, армію, артефакти, навички, книгу заклять, очки руху, очки мани та інші live-дані без зайвих шарів в OBS.
 
 Проєкт орієнтований на Heroes III PvP-стріми, де глядачам важливо швидко дивитися інформацію про героя, а стрімеру - залишати основну картинку гри чистою.
 
 ### Що Робить Додаток
 
 - Підключається до запущеної Heroes III / HotA на ПК стрімера.
-- Передає поточний стан гри на companion relay server.
-- Живить інтерактивний Twitch overlay для глядачів.
-- Показує портрет героя, основні стати, мораль, удачу, досвід, secondary skills, артефакти, армію, spellbook та детальні вікна.
+- Передає поточний стан гри в додаток компаньйон.
+- Показує портрет героя, основні стати, мораль, удачу, досвід, навички, артефакти, армію, книгу заклять та детальні предметів/армії.
 - Дозволяє глядачам взаємодіяти з інформацією, не змінюючи сцену стрімера в OBS.
 
 ### Додаток Для Стрімера
@@ -68,4 +66,4 @@ HoMM III Companion - це додаток для стрімера, створен
 
 ### Підтримка
 
-Якщо хочеш підтримати розробку, це можна зробити через [банку Monobank](https://send.monobank.ua/jar/AGKRYBbgPD).
+Якщо хочеш підтримати розробку, це можна зробити через [банку](https://send.monobank.ua/jar/AGKRYBbgPD).
