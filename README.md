@@ -16,6 +16,8 @@ HoMM III Companion is a streamer-side companion app for Heroes of Might and Magi
 
 The project is designed for Heroes III PvP streams, where viewers want quick access to hero information while the streamer keeps the game screen clean.
 
+The app was created exclusively for the Ukrainian Heroes III community [Stand with Ukraine - SWU](https://swuh3.com/).
+
 ### What It Does
 
 - Connects to a running Heroes III / HotA game on the streamer's PC.
@@ -45,6 +47,8 @@ If you want to support development, you can contribute through the [Monobank](ht
 HoMM III Companion - це додаток для стрімера, створений для Heroes of Might and Magic III: Horn of the Abyss. Він читає живий стан гри з запущеного процесу та передає його у [HoMM III Companion Twitch Extension](https://dashboard.twitch.tv/extensions/yngq3ejk6b6z0838sjnxy5kz1k8eru-0.0.1), щоб глядачі могли переглядати поточного героя стрімера, армію, артефакти, навички, книгу заклять, очки руху, очки мани та інші live-дані без зайвих шарів в OBS.
 
 Проєкт орієнтований на Heroes III PvP-стріми, де глядачам важливо швидко дивитися інформацію про героя, а стрімеру - залишати основну картинку гри чистою.
+
+Додаток був ексклюзивно створений для української Heroes III спільноти [Stand with Ukraine - SWU](https://swuh3.com/).
 
 ### Що Робить Додаток
 
