@@ -94,7 +94,7 @@ HoMM III Companion - це додаток для стрімера, створен
 
 ### Підтримка
 
-Якщо хочеш підтримати розробку, це можна зробити через [Monobank](https://send.monobank.ua/jar/AGKRYBbgPD).
+Якщо хочете підтримати розробку, це можна зробити через [Monobank](https://send.monobank.ua/jar/AGKRYBbgPD).
 
 ### Умови Використання
 
